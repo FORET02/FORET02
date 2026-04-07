@@ -79,9 +79,6 @@
     <a href="https://github.com/FORET02/Task/tree/main/CTFWriteUp/WHSCTF">
       <img src="https://img.shields.io/badge/WHSCTF-WriteUp-7BAE7F?style=for-the-badge" alt="WHSCTF WriteUp" />
     </a>
-    <a href="https://github.com/FORET02/Task/tree/main/CTFWriteUp/NWDF%26CarCTF">
-      <img src="https://img.shields.io/badge/K--Shield%20Jr-NWDF%20%26%20Car%20CTF-7BAE7F?style=for-the-badge" alt="K-Shield Jr NWDF and Car CTF" />
-    </a>
   </p>
 
   <!-- Divider -->
