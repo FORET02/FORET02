@@ -31,7 +31,7 @@
   <p>
     <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="27" />
     <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" height="27" />
-    <img src="https://custom-icon-badges.demolab.com/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="20" />
+    <img src="https://custom-icon-badges.demolab.com/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" height="27" />
   </p>
 
   <h3>Databases</h3>
@@ -92,12 +92,12 @@
   <h2>🌲 GitHub Stats & Contributions 🌲</h2>
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=P-DOEUN&show_icons=true&theme=gruvbox_light&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=FORET02&show_icons=true&theme=gruvbox_light"
       height="165"
       alt="GitHub Stats"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-DOEUN&langs_count=10&layout=compact&theme=gruvbox_light"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORET02&langs_count=10&layout=compact&theme=gruvbox_light"
       height="165"
       alt="Top Languages"
     />
