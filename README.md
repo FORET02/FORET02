@@ -31,7 +31,7 @@
   <p>
     <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="27" />
     <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" height="27" />
-    <img src="https://custom-icon-badges.demolab.com/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="27" />
+    <img src="https://custom-icon-badges.demolab.com/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="25" />
   </p>
 
   <h3>Databases</h3>
