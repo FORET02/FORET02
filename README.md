@@ -1,25 +1,25 @@
 <div align="center">
 
-  <!-- 타입 애니메이션 -->
+  <!-- Typing Animation -->
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=7BAE7F&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Exploring+Cybersecurity+%26+AI;" 
     alt="Typing SVG" 
   />
 
-  <!-- 인사말 -->
+  <!-- Greeting -->
   <h3>🌿 Welcome 🌿</h3>
   <p>
     Currently studying at university, exploring the worlds of cybersecurity and artificial intelligence.
   </p>
 
-  <!-- 구분선 -->
+  <!-- Divider -->
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:7BAE7F,100:4E944F&height=2&section=header"
     width="80%"
     alt="divider"
   />
 
-  <!-- 기술 스택 -->
+  <!-- Stack -->
   <h2>🍀 Stack 🍀</h2>
 
   <h3>Languages</h3>
@@ -49,14 +49,46 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" height="27" />
   </p>
 
-  <!-- 구분선 -->
+  <!-- Divider -->
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:7BAE7F,100:4E944F&height=2&section=header"
     width="80%"
     alt="divider"
   />
 
-  <!-- GitHub 통계 -->
+  <!-- Study Archive -->
+  <h2>📚 Study Archive 📚</h2>
+  <p>
+    I organize my cybersecurity learning journey here, including security studies, reports, write-ups, and project records.
+    <br/>
+    Click the green badges below to explore what I’ve studied and documented.
+  </p>
+
+  <h3>Security Study</h3>
+  <p>
+    <a href="https://github.com/FORET02/Task/tree/main/DigitalForensics">
+      <img src="https://img.shields.io/badge/Digital%20Forensics-Slowloris%20Analysis-7BAE7F?style=for-the-badge" alt="Slowloris Analysis" />
+    </a>
+    <a href="https://github.com/FORET02/Task/tree/main/SystemSecurity">
+      <img src="https://img.shields.io/badge/System%20Security-Buffer%20Overflow-7BAE7F?style=for-the-badge" alt="Buffer Overflow Analysis" />
+    </a>
+  </p>
+
+  <h3>CTF</h3>
+  <p>
+    <a href="https://github.com/FORET02/Task/tree/main/CTFWriteUp/WHSCTF">
+      <img src="https://img.shields.io/badge/WHSCTF-WriteUp-7BAE7F?style=for-the-badge" alt="WHSCTF WriteUp" />
+    </a>
+  </p>
+
+  <!-- Divider -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7BAE7F,100:4E944F&height=2&section=header"
+    width="80%"
+    alt="divider"
+  />
+
+  <!-- GitHub Stats -->
   <h2>🌲 GitHub Stats & Contributions 🌲</h2>
   <p>
     <img
