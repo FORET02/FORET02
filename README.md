@@ -2,7 +2,7 @@
 
   <!-- Typing Animation -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=7BAE7F&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Exploring+Cybersecurity+%26+AI;" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=7BAE7F&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+FORET02's+GitHub!;Exploring+Cybersecurity+%26+AI;" 
     alt="Typing SVG" 
   />
 
@@ -79,6 +79,9 @@
     <a href="https://github.com/FORET02/Task/tree/main/CTFWriteUp/WHSCTF">
       <img src="https://img.shields.io/badge/WHSCTF-WriteUp-7BAE7F?style=for-the-badge" alt="WHSCTF WriteUp" />
     </a>
+    <a href="https://github.com/FORET02/Task/tree/main/CTFWriteUp/NWDF%26CarCTF">
+      <img src="https://img.shields.io/badge/K--Shield%20Jr-NWDF%20%26%20Car%20CTF-7BAE7F?style=for-the-badge" alt="K-Shield Jr NWDF and Car CTF" />
+    </a>
   </p>
 
   <!-- Divider -->
@@ -89,15 +92,16 @@
   />
 
   <!-- GitHub Stats -->
-  <h2>🌲 GitHub Stats & Contributions 🌲</h2>
+
+  <h2>🌲 GitHub Stats 🌲</h2>
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=FORET02&show_icons=true&theme=gruvbox_light"
+      src="https://github-readme-stats-pingu52s-projects.vercel.app/api?username=FORET02&show_icons=true&theme=merko&count_private=true"
       height="165"
       alt="GitHub Stats"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORET02&langs_count=10&layout=compact&theme=gruvbox_light"
+      src="https://github-readme-stats-pingu52s-projects.vercel.app/api/top-langs/?username=FORET02&langs_count=10&layout=compact&theme=merko&hide=CSS,JavaScript,HTML"
       height="165"
       alt="Top Languages"
     />
